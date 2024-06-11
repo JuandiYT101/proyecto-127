@@ -1,0 +1,20 @@
+body {
+    background-color: #ffb300;
+}
+
+#punt {
+    font-size: 16px;
+    margin-left: 20px;
+    float: left;
+}
+
+#time {
+    font-size: 16px;
+    margin-right: 20px;
+    float: right;
+}
+
+#draw {
+    font-size: 20px;
+    color: #333;
+}
